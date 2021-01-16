@@ -10,4 +10,4 @@ I've created and maintain several typological databases:
 And several tools for research in comparative linguistics:
 
 * [`Unicode cookbook`](https://github.com/unicode-cookbook/)
-* [`segments`](https://github.com/bambooforest/segments)
+* [`segments`](https://github.com/cldf/segments)
