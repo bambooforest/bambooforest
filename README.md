@@ -1,16 +1,13 @@
-### Hi there 👋
+I am a scientist trained in computational linguistics, linguistic fieldwork, and language teaching.
 
-<!--
-**bambooforest/bambooforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've created and maintain several typological databases:
 
-Here are some ideas to get you started:
+* [`phoible`](https://github.com/phoible/dev)
+* [`bdproto`](https://github.com/bdproto/bdproto)
+* [`segbo`](https://github.com/segbo-db/segbo)
+* [`acqdiv`](https://github.com/acqdiv/acqdiv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And several tools for research in comparative linguistics:
+
+* [`Unicode cookbook`](https://github.com/unicode-cookbook/)
+* [`segments`](https://github.com/bambooforest/segments)
