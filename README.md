@@ -1,4 +1,4 @@
-I am a scientist trained in [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics), [linguistic fieldwork](https://en.wikipedia.org/wiki/Language_documentation), and [language teaching](https://en.wikipedia.org/wiki/Language_education). My current research is funded by the [Swiss National Science Foundation (SNSF)](https://www.snf.ch) and focuses on [language evolution](https://www.unine.ch/evolang/home.html).
+I am a scientist trained in [phonology](https://en.wikipedia.org/wiki/Phonology), [computational linguistics](https://en.wikipedia.org/wiki/Computational_linguistics), [linguistic fieldwork](https://en.wikipedia.org/wiki/Language_documentation), and [language teaching](https://en.wikipedia.org/wiki/Language_education). My current research is funded by the [Swiss National Science Foundation (SNSF)](https://www.snf.ch) and focuses on [language evolution](https://www.unine.ch/evolang/home.html).
 
 I've created and maintain several [typological](https://en.wikipedia.org/wiki/Linguistic_typology) databases:
 
