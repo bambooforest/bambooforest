@@ -11,3 +11,5 @@ And some tools for research in [comparative linguistics](https://en.wikipedia.or
 
 * [`Unicode cookbook`](https://github.com/unicode-cookbook/)
 * [`segments`](https://github.com/cldf/segments)
+
+I am also exeuctive director of [Linguist List](https://linguistlist.org).
