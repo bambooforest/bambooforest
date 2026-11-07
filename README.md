@@ -5,7 +5,7 @@ I've created and maintain several [typological](https://en.wikipedia.org/wiki/Li
 * [`phoible`](https://github.com/phoible/dev)
 * [`bdproto`](https://github.com/bdproto/bdproto)
 * [`segbo`](https://github.com/segbo-db/segbo)
-* [`acqdiv`](https://github.com/acqdiv/acqdiv)
+* [`tono_db`](https://github.com/cldf-datasets/tonodb)
 
 And some tools for research in [comparative linguistics](https://en.wikipedia.org/wiki/Comparative_linguistics):
 
